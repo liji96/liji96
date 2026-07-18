@@ -96,7 +96,7 @@ A personal portfolio website showcasing my journey as a Java Backend Developer a
 
 `HTML` `CSS` `JavaScript` `Vercel`
 
-> 💼 Most of my hands-on Spring Boot / Kafka / Elasticsearch / microservices work is built as part of production systems at Innobiz and is under NDA — happy to walk through the architecture and my contributions in an interview or call.
+> 💼 Most of my hands-on Spring Boot / Kafka / Elasticsearch / Microservices work is built as part of production systems at Innobiz and is under NDA — happy to walk through the architecture and my contributions in an interview or call.
 
 ---
 
@@ -104,7 +104,7 @@ A personal portfolio website showcasing my journey as a Java Backend Developer a
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=liji96&show_icons=true&theme=default&hide_title=false&count_private=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liji96&count_private=true" height="165">
+  <img src="https://streak-stats.demolab.com/?user=liji96" height="165">
 </p>
 
 <p align="center">
