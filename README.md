@@ -1,80 +1,106 @@
-<h1 align="center">Hi, I'm Liji K L 👋</h1>
+<h1 align="center">Hi 👋, I'm Liji K L</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | Microservices | 4+ Years</h3>
 
 <p align="center">
-  <em>Java Backend Developer · 4 Years of Experience · Kerala, India</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+with+Spring+Boot;Kafka+%7C+Redis+%7C+Elasticsearch+%7C+Docker+%7C+AWS;Turning+ideas+into+production-ready+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://lijikl-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-lijikl--dev.vercel.app-0a66c2?style=flat&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/lijikl" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-lijikl-0a66c2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-2ea44f?style=flat" />
+  <a href="https://www.linkedin.com/in/lijikl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://lijikl-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:lijikl1996@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+### 🚀 About Me
 
-I'm a **Java Backend Developer** with **4 years of professional experience** building scalable, production-grade applications. Currently working at **Innobiz**, I specialize in microservices architecture, event-driven systems, and cloud deployments.
-
-I focus on writing clean, maintainable code and understanding the *why* behind every technical decision — not just the *how*.
-
-> *Code. Learn. Improve. Repeat.*
+- 🔧 Java Backend Developer with **4+ years** of experience building production-grade microservices
+- 🏗️ Specialize in **service decomposition**, **event-driven architecture**, and **scalable REST APIs**
+- 📦 Currently building and shipping backend systems at **Innobiz**
+- 🌱 Always learning — currently exploring newer Java LTS features and cloud-native patterns
+- 💬 Ask me about Spring Boot, Kafka, Elasticsearch, or multi-database architectures
+- 📫 Reach me at **lijikl1996@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-**Languages & Frameworks**
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+**Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white">
+</p>
 
 **Messaging & Search**
-
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+</p>
 
 **Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+</p>
 
 **DevOps & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
+</p>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white">
+</p>
 
 ---
 
-## 💼 Experience
+### 🏆 Featured Projects
 
-**Backend Developer — Innobiz**
-- Designing and shipping microservices-based backend systems
-- Working with event-driven architecture using Apache Kafka
-- Building secure REST APIs with Spring Boot & Spring Security (JWT)
-- Managing multi-database environments across PostgreSQL, MySQL, and MSSQL
-- Deploying containerized services with Docker and GitHub Actions CI/CD on AWS
+**🔹 Tracker — Real-Time Analytics & Microservices Platform**
+Microservices platform using Kafka for real-time streaming, Elasticsearch for search/analytics, and a GraphQL layer alongside REST. Containerized with Docker, deployed on AWS & Heroku.
+`Spring Boot` `Kafka` `Elasticsearch` `GraphQL` `Docker` `AWS`
+
+**🔹 JGC — Order Processing Web Application**
+Full-featured order management system with multi-database connectivity (MySQL, MSSQL, PostgreSQL), role-based access control, and Excel import/export pipelines.
+`Spring Boot` `Spring Security` `JUnit` `Multi-DB`
+
+**🔹 Google Meet Integrated Tuition Application**
+1:1 online tutoring platform integrating the Google Meet API for live sessions, with Spring-based scheduling and secure role-based access.
+`Spring Boot` `Spring Security` `REST APIs`
 
 ---
 
-## 📬 Let's Connect
+### 📊 GitHub Stats
 
-I'm currently **open to new backend opportunities** — especially roles involving Java, Spring Boot, and distributed systems.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=liji96&show_icons=true&theme=default&hide_title=false&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liji96&count_private=true" height="165">
+</p>
 
-- 🌐 Portfolio: [lijikl-dev.vercel.app](https://lijikl-dev.vercel.app/)
-- 💼 LinkedIn: [linkedin.com/in/lijikl](https://linkedin.com/in/lijikl)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liji96&layout=compact&count_private=true" height="165">
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=liji96&color=0a66c2&style=flat&label=Profile+Views" />
+  <i>💼 Open to backend / microservices roles where good engineering matters. Let's build something worth building.</i>
 </p>
