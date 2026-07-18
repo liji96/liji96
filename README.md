@@ -72,19 +72,13 @@
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Featured Project
 
-**🔹 Tracker — Real-Time Analytics & Microservices Platform**
-Microservices platform using Kafka for real-time streaming, Elasticsearch for search/analytics, and a GraphQL layer alongside REST. Containerized with Docker, deployed on AWS & Heroku.
-`Spring Boot` `Kafka` `Elasticsearch` `GraphQL` `Docker` `AWS`
+**🔹 Personal Portfolio — [lijikl-dev.vercel.app](https://lijikl-dev.vercel.app/)**
+My personal portfolio showcasing my skills, experience, and background as a Java backend developer.
+`React` `Responsive Web Design`
 
-**🔹 JGC — Order Processing Web Application**
-Full-featured order management system with multi-database connectivity (MySQL, MSSQL, PostgreSQL), role-based access control, and Excel import/export pipelines.
-`Spring Boot` `Spring Security` `JUnit` `Multi-DB`
-
-**🔹 Google Meet Integrated Tuition Application**
-1:1 online tutoring platform integrating the Google Meet API for live sessions, with Spring-based scheduling and secure role-based access.
-`Spring Boot` `Spring Security` `REST APIs`
+> 💼 Most of my hands-on Spring Boot / Kafka / Elasticsearch / microservices work is built as part of production systems at Innobiz and is under NDA — happy to walk through the architecture and my contributions in an interview or call.
 
 ---
 
