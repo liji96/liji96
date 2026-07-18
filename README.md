@@ -74,9 +74,16 @@
 
 ### 🏆 Featured Project
 
-**🔹 Personal Portfolio — [lijikl-dev.vercel.app](https://lijikl-dev.vercel.app/)**
-My personal portfolio showcasing my skills, experience, and background as a Java backend developer.
-`React` `Responsive Web Design`
+**🔹 LIJI KL Dev Portfolio — [lijikl-dev.vercel.app](https://lijikl-dev.vercel.app/)**
+*May 2025 – Jun 2025*
+
+A personal portfolio website showcasing my journey as a Java Backend Developer and my expertise in cutting-edge technologies. Highlights my skills, projects, certifications, and experience in a visually engaging, interactive format.
+
+- Clean and responsive design built with HTML, CSS, and JavaScript
+- Deployed on Vercel for high performance and reliability
+- Highlights Java and Spring Boot expertise alongside showcased projects and certifications
+
+`HTML` `CSS` `JavaScript` `Vercel`
 
 > 💼 Most of my hands-on Spring Boot / Kafka / Elasticsearch / microservices work is built as part of production systems at Innobiz and is under NDA — happy to walk through the architecture and my contributions in an interview or call.
 
