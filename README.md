@@ -1,19 +1,27 @@
 <h1 align="center">Hi 👋, I'm Liji K L</h1>
 <h3 align="center">Java Backend Developer | Spring Boot | Microservices | 4+ Years</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lijikl">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-  </a>
+<table align="center">
+<tr>
+<td>
+<a href="https://www.linkedin.com/in/lijikl">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+</td>
 
-  <a href="https://lijikl-dev.vercel.app">
-    <img src="https://skillicons.dev/icons?i=vercel" height="48"/>
-  </a>
+<td>
+<a href="https://lijikl-dev.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel" height="48"/>
+</a>
+</td>
 
-  <a href="mailto:lijikl1996@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-  </a>
-</p>
+<td>
+<a href="mailto:lijikl1996@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -37,8 +45,9 @@
 
 **Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
-  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="48"/>
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="48"/>
+  <img src="https://skillicons.dev/icons?i=hibernate" width="48"/>
 </p>
 
 **Frontend**
@@ -53,8 +62,9 @@
 
 **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48"/>
 </p>
 
 **DevOps & Cloud**
@@ -64,9 +74,12 @@
 
 **Tools & Monitoring**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,bitbucket,postman,idea" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/datadog/632CA6" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48"/>
+  <img src="https://skillicons.dev/icons?i=bitbucket" width="48"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="48"/>
+  <img src="https://skillicons.dev/icons?i=idea" width="48"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="48"/>
+  <img src="https://cdn.simpleicons.org/datadog/632CA6" width="48"/>
 </p>
 
 ---
