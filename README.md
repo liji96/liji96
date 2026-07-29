@@ -2,13 +2,17 @@
 <h3 align="center">Java Backend Developer | Spring Boot | Microservices | 4+ Years</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+with+Spring+Boot;Kafka+%7C+Redis+%7C+Elasticsearch+%7C+Docker+%7C+AWS;Turning+ideas+into+production-ready+systems" alt="Typing SVG" />
-</p>
+  <a href="https://www.linkedin.com/in/lijikl">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+  </a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lijikl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://lijikl-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="mailto:lijikl1996@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://lijikl-dev.vercel.app">
+    <img src="https://skillicons.dev/icons?i=vercel" height="48"/>
+  </a>
+
+  <a href="mailto:lijikl1996@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+  </a>
 </p>
 
 ---
@@ -34,7 +38,7 @@
 **Frameworks**
 <p>
   <img src="https://skillicons.dev/icons?i=spring,hibernate" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="48" height="48"/>
 </p>
 
 **Frontend**
@@ -50,7 +54,7 @@
 **Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
 </p>
 
 **DevOps & Cloud**
@@ -61,8 +65,8 @@
 **Tools & Monitoring**
 <p>
   <img src="https://skillicons.dev/icons?i=git,bitbucket,postman,idea" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white">
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/datadog/632CA6" width="48" height="48"/>
 </p>
 
 ---
