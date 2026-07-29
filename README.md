@@ -45,9 +45,8 @@
 
 **Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=spring" width="48"/>
-  <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="48"/>
-  <img src="https://skillicons.dev/icons?i=hibernate" width="48"/>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="48"/>
 </p>
 
 **Frontend**
@@ -63,6 +62,7 @@
 **Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48"/>
 </p>
 
 **DevOps & Cloud**
@@ -72,9 +72,9 @@
 
 **Tools & Monitoring**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,bitbucket,postman,jira,datadog" />
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,idea,maven,jira" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="48"/>
 </p>
-
 ---
 
 ### 🏆 Featured Project
