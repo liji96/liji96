@@ -25,7 +25,7 @@
 </tr>
 </table>
 
----
+
 
 ### 🚀 About Me
 
@@ -74,7 +74,7 @@
 
 **Tools & Monitoring**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,idea,maven,jira" />
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,idea,maven" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="48"/>
 </p>
 ---
