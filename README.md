@@ -62,9 +62,7 @@
 
 **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" width="48"/>
-  <img src="https://skillicons.dev/icons?i=postgres" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 **DevOps & Cloud**
@@ -74,12 +72,7 @@
 
 **Tools & Monitoring**
 <p>
-  <img src="https://skillicons.dev/icons?i=git" width="48"/>
-  <img src="https://skillicons.dev/icons?i=bitbucket" width="48"/>
-  <img src="https://skillicons.dev/icons?i=postman" width="48"/>
-  <img src="https://skillicons.dev/icons?i=idea" width="48"/>
-  <img src="https://cdn.simpleicons.org/jira/0052CC" width="48"/>
-  <img src="https://cdn.simpleicons.org/datadog/632CA6" width="48"/>
+  <img src="https://skillicons.dev/icons?i=git,bitbucket,postman,jira,datadog" />
 </p>
 
 ---
