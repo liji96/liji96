@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Liji K L</h1>
 <h3 align="center">Java Backend Developer | Spring Boot | Microservices | 4+ Years</h3>
 
+<p align="center">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+with+Spring+Boot;Kafka+%7C+Redis+%7C+Elasticsearch+%7C+Docker+%7C+AWS;Turning+ideas+into+production-ready+systems" alt="Typing SVG" /></p>
+
 <table align="center">
 <tr>
 <td>
