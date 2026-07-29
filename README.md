@@ -103,7 +103,7 @@ A personal portfolio website showcasing my journey as a Java Backend Developer a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://stats-two-khaki.vercel.app/api?username=liji96&show_icons=true&theme=default&hide_title=false&count_private=true" height="165">
+  <img src="https://stats-two-khaki.vercel.app/api?username=liji96&show_icons=true&theme=default&hide_title=false&count_private=true&cache_bust=1" height="165">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=liji96" height="165">
 </p>
 
